@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "kindle",
+    "slug": "snack-06043100-72ae-49ff-b19e-5d9414eb4c9c",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.healer1010.snack0604310072ae49ffb19e5d9414eb4c9c"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "e7df2b10-33ac-4fe7-ae49-6cdcb1e934a4"
+      }
+    }
+  }
+}
